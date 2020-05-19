@@ -38,21 +38,21 @@ class Person
   
 end
 
-# Notes and practice 
+# # Notes and practice 
 
-class Record
+# class Record
   
-  def genre=(records_genre)
-    @grenre = records_genre
-  end 
+#   def genre=(records_genre)
+#     @grenre = records_genre
+#   end 
   
-  def genre
-    @genre 
-  end 
+#   def genre
+#     @genre 
+#   end 
   
-end 
+# end 
 
-beasty_boys = Record.new
-beasty_boys.genre = "Rap and R&B"
-beasty_boys.gerne 
+# beasty_boys = Record.new
+# beasty_boys.genre = "Rap and R&B"
+# beasty_boys.gerne 
 
